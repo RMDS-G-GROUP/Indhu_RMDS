@@ -1,4 +1,3 @@
-# Indhu-Data-Science-Hackathon-
 # Dataset B — H1N1 Vaccine Acceptance & Cost-Optimal Allocation
 
 **Team 11 — Data Science Challenge (Hackathon, 11 November 2026)**
