@@ -9,7 +9,7 @@ cost (vaccine purchases, compensation, and hospitalisations).
 
 ## Links
 
-- **Colab notebook:** [dataset_B_team11_notebook.ipynb](notebooks/dataset_B_team11_notebook.ipynb)
+- **Colab notebook:** (24096112)Team_11_Structured_Challenge_Notebook.ipynb
 - **Submissions:** `submissions/` (5 files, ordered best-to-worst)
 
 ## Problem
@@ -117,6 +117,4 @@ Requires: Python 3, pandas, numpy, scikit-learn, matplotlib, seaborn
 ## Contact
 
 Team 11 — RMDS Data Science Challenge
-
-Contact
-Team 11 — RMDS Data Science Challenge
+student : 24096112
