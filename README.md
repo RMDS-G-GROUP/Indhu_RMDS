@@ -102,7 +102,7 @@ Requires: Python 3, pandas, numpy, scikit-learn, matplotlib, seaborn
 ├── README.md
 ├── data/                       # training & testing CSVs (not committed if large)
 ├── notebooks/
-│   └── dataset_B_team11_notebook.ipynb
+│   └── (24096112)Team_11_Structured_Challenge_Notebook.ipynb
 ├── submissions/                 # 5 challenge submission files
 └── docs/                        # cost-metric research notes
 ```
